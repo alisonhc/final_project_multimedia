@@ -1,2 +1,4 @@
 pytsmod
 praat-parselmouth
+seaborn
+pandas
